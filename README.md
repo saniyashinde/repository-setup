@@ -1,4 +1,4 @@
-# Day 3 - Repository Setup
+
 
 ## Project Overview
 Full-stack application using React and Python FastAPI.
